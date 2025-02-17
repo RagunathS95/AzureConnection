@@ -1,2 +1,2 @@
-city: Chennaiis
+city: Chennai
 git
